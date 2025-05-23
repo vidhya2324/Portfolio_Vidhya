@@ -1,5 +1,5 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
-
+https://portfolio-vidhya.vercel.app/
 <div align="center">
   <br />
   <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
@@ -16,17 +16,6 @@
   <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
   <br />
 </div>
-
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
-
----
 
 ## ⚙️ Tech Stack
 
