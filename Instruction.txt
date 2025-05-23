@@ -1,0 +1,38 @@
+🛠️ Technologies Used
+✅ Frontend
+React.js – Core framework used for building the interactive UI
+
+Tailwind CSS – For responsive and utility-first styling
+
+Lucide-React & React Icons – For clean, customizable SVG icons
+
+✅ Form Handling
+Formspree – To handle contact form submissions without the need for a backend
+
+Toast Notifications – Instant popup feedback after form submission (via custom useToast hook)
+
+✅ Custom Hooks & Components
+useToast – Custom hook used to show success messages
+
+cn – Utility function for conditional class name handling
+
+🌐 Website Sections
+📌 1. Home Section
+Introduction and brief summary about yourself
+
+📌 2. About Section
+Overview of your background, academic profile, and passions in data science & AI
+
+📌 3. Projects Section
+Showcases your major projects (like Face Recognition, DDoS Detection, Algebra Assist)
+
+Each project includes a title, description, and GitHub/demo links
+
+📌 4. Contact Section
+Interactive contact form (name, email, message)
+
+Social media links: LinkedIn, GitHub, Discord, Instagram
+
+Email notifications using Formspree
+
+Toast notification for instant user feedback
