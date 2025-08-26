@@ -6,7 +6,7 @@ const projects = [
     title: "Finance Management System",
     description:
       "A full-stack web app to manage personal finances by tracking income, expenses, and visualizing budgets.",
-    image: "public/projects/Project_1.png",
+    image: "/projects/Project_1.png",
     tags: ["React", "Node.js", "Express", "MongoDB"],
     demoUrl: "https://finance-ten-ashen.vercel.app/",
     githubUrl: "https://github.com/vidhya2324/Finance.git",
@@ -16,7 +16,7 @@ const projects = [
     title: "Nexrise-AI Career Coach",
     description:
       "A platform connecting teachers and students with features for doubt resolution and community building.",
-    image: "public/projects/Project_2.png",
+    image: "/projects/Project_2.png",
     tags: ["React", "Firebase", "Node.js", "Neon", "Clerk"],
     demoUrl: "https://nex-rise-21u3.vercel.app/",
     githubUrl: "https://github.com/vidhya2324/NexRise.git",
@@ -26,7 +26,7 @@ const projects = [
     title: "Neural Network Project",
     description:
       "Implemented a simple neural network to understand deep learning fundamentals and model training.",
-    image: "public/projects/Project_3.png",
+    image: "/projects/Project_3.png",
     tags: ["RNN", "CNN", "Tensorflow", "Keras"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/Neutral_network.git",
@@ -36,7 +36,7 @@ const projects = [
     title: "Streamlit Diabetes Prediction",
     description:
       "Interactive data visualization dashboard built using Streamlit for quick data exploration, Focusing on the diabetes.",
-    image: "public/projects/Project_4.png",
+    image: "/projects/Project_4.png",
     tags: ["Python", "Streamlit", "Pandas", "Model training"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/Deploy_Diabetes_Streamlit.git",
@@ -46,7 +46,7 @@ const projects = [
     title: "Chatbot Development",
     description:
       "Developed a conversational chatbot integrating NLP techniques for customer support automation.",
-    image: "public/projects/Project_5.png",
+    image: "/projects/Project_5.png",
     tags: ["Python", "NLTK", "TensorFlow"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/Chatbot.git",
@@ -57,7 +57,7 @@ const projects = [
     title: "Machine Learning Project",
     description:
       "Built with LSTM to predict stock prices based on historical financial data and market trends etc..",
-    image: "public/projects/Project_6.png",
+    image: "/projects/Project_6.png",
     tags: ["Python", "LSTM", "SVM", "Machine Learning", "Finance"],
     demoUrl: "#",
     githubUrl:
@@ -68,7 +68,7 @@ const projects = [
     title: "Chatbot using Gemini API",
     description:
       "Conversational chatbot powered by Gemini API for natural language understanding and interactive dialogue.",
-    image: "public/projects/Project_7.png",
+    image: "/projects/Project_7.png",
     tags: ["JavaScript", "Gemini API", "Chatbot", "NLP"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/ChatBot_gemini_API.git",
@@ -78,7 +78,7 @@ const projects = [
     title: "Chatbot with Hugging Face",
     description:
       "Developed a chatbot using Hugging Face transformers to enable contextual conversations with users.",
-    image: "public/projects/Project_8.png",
+    image: "/projects/Project_8.png",
     tags: ["Python", "Hugging Face", "Transformers", "NLP"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/ChatBot_Hugging_Face.git",
@@ -88,7 +88,7 @@ const projects = [
     title: "AI-Powered Blood Test Analyzer",
     description:
       "A Flutter-based mobile application that interprets blood test results using OpenAI's API, offering users insights into their health metrics and potential anomalies.",
-    image: "public/projects/Project_9.png",
+    image: "/projects/Project_9.png",
     tags: ["Flutter", "Dart", "OpenAI API", "Healthcare"],
     demoUrl: "#",
     githubUrl: "https://github.com/vidhya2324/Flutter-OpenAI-main",
