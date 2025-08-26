@@ -99,7 +99,7 @@ const projects = [
     title: "Shoe Shopping App",
     description:
       "A Flutter-based mobile application designed for a smooth shoe shopping experience. It features product browsing, cart management, and a modern UI to help users explore and purchase shoes effortlessly.",
-    image: "public/projects/Project_10.png",
+    image: "/projects/Project_10.png",
     tags: ["Flutter", "Dart", "UI/UX"],
     demoUrl: "https://shoe-app-flutter.vercel.app/",
     githubUrl: "https://github.com/vidhya2324/Shoe_app_Flutter",
